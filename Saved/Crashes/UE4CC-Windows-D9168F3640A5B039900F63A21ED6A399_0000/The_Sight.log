@@ -1,0 +1,1266 @@
+﻿Log file open, 05/08/22 22:45:11
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: The_Sight
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.168753
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 5600X 6-Core Processor             , GPU: NVIDIA GeForce RTX 3060 Ti
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Engine.ini]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Engine.ini]
+[2022.05.08-19.45.11:737][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Engine.ini]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Engine.ini]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.05.08-19.45.11:737][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Engine.ini]
+[2022.05.08-19.45.11:737][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Engine.ini]
+[2022.05.08-19.45.11:748][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-19.45.11:748][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.08-19.45.11:748][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.08-19.45.11:748][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.08-19.45.11:749][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.08-19.45.11:749][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.08-19.45.11:749][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.05.08-19.45.11:749][  0]LogHAL: Display: Platform has ~ 16 GB [17099726848 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.08-19.45.11:750][  0]LogInit: Going up to parent DeviceProfile []
+[2022.05.08-19.45.11:750][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Scalability.ini]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.08-19.45.11:750][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.08-19.45.11:751][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.05.08-19.45.11:751][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.05.08-19.45.11:751][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.05.08-19.45.11:751][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Engine.ini]
+[2022.05.08-19.45.11:751][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Config/Windows/Editor.ini]
+[2022.05.08-19.45.11:751][  0]LogInit: Computer: DESKTOP-IVCLO0V
+[2022.05.08-19.45.11:751][  0]LogInit: User: Muyat
+[2022.05.08-19.45.11:751][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.05.08-19.45.11:751][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.08-19.45.11:751][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.05.08-19.45.11:751][  0]LogMemory: Platform Memory Stats for Windows
+[2022.05.08-19.45.11:751][  0]LogMemory: Process Physical Memory: 139.45 MB used, 139.45 MB peak
+[2022.05.08-19.45.11:751][  0]LogMemory: Process Virtual Memory: 120.07 MB used, 120.07 MB peak
+[2022.05.08-19.45.11:751][  0]LogMemory: Physical Memory: 4422.76 MB used,  11884.81 MB free, 16307.57 MB total
+[2022.05.08-19.45.11:751][  0]LogMemory: Virtual Memory: 134188064.00 MB used,  29660.42 MB free, 134217728.00 MB total
+[2022.05.08-19.45.11:755][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.08-19.45.11:769][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.05.08-19.45.11:770][  0]LogInit: Using OS detected language (tr-TR).
+[2022.05.08-19.45.11:770][  0]LogInit: Using OS detected locale (tr-TR).
+[2022.05.08-19.45.11:775][  0]LogTextLocalizationManager: No localization for 'tr-TR' exists, so 'en' will be used for the language.
+[2022.05.08-19.45.11:884][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.08-19.45.11:890][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.08-19.45.11:902][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.08-19.45.11:902][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.08-19.45.12:003][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.08-19.45.12:003][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.05.08-19.45.12:003][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.05.08-19.45.12:003][  0]LogD3D11RHI: D3D11 adapters:
+[2022.05.08-19.45.12:079][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Ti' (Feature Level 11_0)
+[2022.05.08-19.45.12:079][  0]LogD3D11RHI:       8050/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2022.05.08-19.45.12:080][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.05.08-19.45.12:080][  0]LogD3D11RHI:       0/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.05.08-19.45.12:080][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.05.08-19.45.12:083][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.05.08-19.45.12:083][  0]LogD3D11RHI:     GPU DeviceId: 0x2489 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.08-19.45.12:083][  0]LogWindows: EnumDisplayDevices:
+[2022.05.08-19.45.12:083][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060 Ti' (P:1 D:1)
+[2022.05.08-19.45.12:083][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:1)
+[2022.05.08-19.45.12:083][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:1)
+[2022.05.08-19.45.12:084][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2022.05.08-19.45.12:084][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.05.08-19.45.12:084][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Ti
+[2022.05.08-19.45.12:084][  0]LogD3D11RHI:   Driver Version: 511.79 (internal:30.0.15.1179, unified:511.79)
+[2022.05.08-19.45.12:084][  0]LogD3D11RHI:      Driver Date: 2-10-2022
+[2022.05.08-19.45.12:084][  0]LogRHI: Texture pool is 5635 MB (70% of 8050 MB)
+[2022.05.08-19.45.12:128][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.05.08-19.45.12:128][  0]LogD3D11RHI: Async texture creation enabled
+[2022.05.08-19.45.12:128][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.05.08-19.45.12:148][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.05.08-19.45.12:149][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.05.08-19.45.12:346][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.05.08-19.45.12:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.08-19.45.12:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.08-19.45.12:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.08-19.45.12:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.08-19.45.12:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.08-19.45.12:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.08-19.45.12:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.08-19.45.12:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.08-19.45.12:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.08-19.45.12:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.08-19.45.12:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.08-19.45.12:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.08-19.45.12:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.08-19.45.12:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.05.08-19.45.12:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.08-19.45.12:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.08-19.45.12:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.05.08-19.45.12:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.05.08-19.45.12:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.05.08-19.45.12:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.05.08-19.45.12:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.05.08-19.45.12:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.05.08-19.45.12:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.05.08-19.45.12:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.05.08-19.45.12:464][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.05.08-19.45.12:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.08-19.45.12:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.08-19.45.12:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.05.08-19.45.12:488][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.08-19.45.12:494][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.08-19.45.12:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.08-19.45.12:501][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.05.08-19.45.12:506][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.08-19.45.12:548][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.08-19.45.12:548][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Intermediate/Shaders/WorkingDirectory/4860/).
+[2022.05.08-19.45.12:548][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Muyat/AppData/Local/Temp/UnrealShaderWorkingDir/21553AAD431303D30978178928C0A906/'.
+[2022.05.08-19.45.12:548][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.05.08-19.45.12:548][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.05.08-19.45.13:063][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.05.08-19.45.13:092][  0]LogDerivedDataCache: Loaded boot cache 0.03s 77MB C:/Users/Muyat/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.05.08-19.45.13:092][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Muyat/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.05.08-19.45.13:092][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.08-19.45.13:092][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.05.08-19.45.13:092][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.08-19.45.13:092][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.05.08-19.45.13:102][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.05.08-19.45.13:102][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.08-19.45.13:102][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.05.08-19.45.13:109][  0]LogDerivedDataCache: Speed tests for C:/Users/Muyat/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.05.08-19.45.13:109][  0]LogDerivedDataCache: Display: Performance to C:/Users/Muyat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=400.14MBs, RandomWriteSpeed=214.23MBs. Assigned SpeedClass 'Local'
+[2022.05.08-19.45.13:109][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Muyat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.05.08-19.45.13:109][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.05.08-19.45.13:109][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.05.08-19.45.13:143][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.08-19.45.13:143][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.08-19.45.13:158][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2022.05.08-19.45.13:313][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.08-19.45.13:313][  0]LogInit: Active device profile: [000001C2F09DE300][000001C2EF733600 49] Windows
+[2022.05.08-19.45.13:313][  0]LogInit: Profiles: [000001C2F09DE300][000001C2EF733600 49] Windows, [000001C2F098E900][000001C2EE32D740 49] WindowsNoEditor, [000001C2F09DD400][000001C2EF737880 49] WindowsServer, [000001C2F098F800][000001C2EF73B9C0 49] WindowsClient, [000001C2F09DC700][000001C2F1755B40 49] IOS, [000001C2F098EF00][000001C2F1759CC0 49] iPadAir, [000001C2F09DE100][000001C2F175C180 49] iPadAir2, [000001C2F093A000][000001C2F1764440 49] IPadPro, [000001C2F093A100][000001C2F1760480 49] iPadAir3, [000001C2F098D600][000001C2F1768600 49] iPadAir4, [000001C2F093B800][000001C2F176C780 49] iPadMini2, [000001C2F098ED00][000001C2F1770900 49] iPadMini3, [000001C2F0939700][000001C2F1774A80 49] iPadMini4, [000001C2F098FF00][000001C2F1778C00 49] iPadMini5, [000001C2F093D900][000001C2F1780EC0 49] iPhone6, [000001C2F093DA00][000001C2F177CF00 49] iPodTouch6, [000001C2F09DEF00][000001C2F17891C0 49] iPhone7, [000001C2F09DF100][000001C2F1785200 49] iPodTouch7, [000001C2F093E800][000001C2F178D380 49] iPhone5S, [000001C2F09DC100][000001C2F1791500 49] iPhone6Plus, [000001C2F093F400][000001C2F1751640 49] iPhone6S, [000001C2F09DFB00][000001C2F1795780 49] iPhone6SPlus, [000001C2F093DF00][000001C2F17998C0 49] iPhone7Plus, [000001C2F09DC500][000001C2F179DA00 49] iPhoneSE, [000001C2F093CB00][000001C2F17A5B80 49] iPhone8, [000001C2F09DF400][000001C2F17A9D00 49] iPhone8Plus, [000001C2F093C800][000001C2F17AC1C0 49] iPhoneX, [000001C2F09DEA00][000001C2F17B0340 49] iPhoneXS, [000001C2F098CC00][000001C2F17B44C0 49] iPhoneXSMax, [000001C2F093D600][000001C2F17B8640 49] iPhoneXR, [000001C2F098FB00][000001C2F17BC7C0 49] iPhone11, [000001C2F093C500][000001C2F17C0940 49] iPhone11Pro, [000001C2F098C300][000001C2F17C4AC0 49] iPhone11ProMax, [000001C2F093D100][000001C2F17C8C40 49] iPhoneSE2, [000001C2F098CF00][000001C2F17CCDC0 49] iPhone12Mini, [000001C2F093E500][000001C2F17E2F40 49] iPhone12, [000001C2F098C100][000001C2F17E70C0 49] iPhone12Pro, [000001C2F093D000][000001C2F1813240 49] iPhone12ProMax, [000001C2F098D700][000001C2F183F3C0 49] iPadPro105, [000001C2F093FD00][000001C2F1847540 49] iPadPro129, [000001C2F09DEB00][000001C2F184B6C0 49] iPadPro97, [000001C2F093DD00][000001C2F17A1800 49] iPadPro2_129, [000001C2F09DD500][000001C2F184F940 49] iPad5, [000001C2F093F600][000001C2F185FA80 49] iPad6, [000001C2F09DC600][000001C2F1867C00 49] iPad7, [000001C2F093E700][000001C2F186A0C0 49] iPad8, [000001C2F09DF000][000001C2F186E240 49] iPadPro11, [000001C2F093DE00][000001C2F187A3C0 49] iPadPro2_11, [000001C2F09DCC00][000001C2F187E540 49] iPadPro3_129, [000001C2F093EA00][000001C2F188C6C0 49] iPadPro4_129, [000001C2F09DDB00][000001C2F1890840 49] AppleTV, [000001C2F093FE00][000001C2F18A09C0 49] AppleTV4K, [000001C2F09DC300][000001C2F18A4B40 49] TVOS, [000001C2F093FB00][000001C2F18A8CC0 49] Mac, [000001C2F09DDA00][000001C2F18ACE40 49] MacClient, [000001C2F093F000][000001C2F18B0FC0 49] MacNoEditor, [000001C2F09DED00][000001C2F18B5140 49] MacServer, [000001C2F093EE00][000001C2F18B92C0 49] Linux, [000001C2F09DF800][000001C2F18D5440 49] LinuxAArch64, [000001C2F093CF00][000001C2F18D95C0 49] LinuxNoEditor, [000001C2F09DD000][000001C2F18DD740 49] LinuxAArch64NoEditor, [000001C2F093F200][000001C2F1863880 49] LinuxClient, [000001C2F09DDF00][000001C2F18E19C0 49] LinuxAArch64Client, [000001C2F093CE00][000001C2F1905B00 49] LinuxServer, [000001C2F09DDC00][000001C2F1909C40 49] LinuxAArch64Server, [000001C2F093E100][000001C2F1910100 49] Android, [000001C2F09DF500][000001C2F1914280 49] Android_Low, [000001C2F093F100][000001C2F1918400 49] Android_Mid, [000001C2F09DC400][000001C2F191C580 49] Android_High, [000001C2F093FF00][000001C2F1920700 49] Android_Default, [000001C2F09DCB00][000001C2F1924880 49] Android_Adreno4xx, [000001C2F093DB00][000001C2F1928A00 49] Android_Adreno5xx_Low, [000001C2F09DC200][000001C2F192CB80 49] Android_Adreno5xx, [000001C2F093EB00][000001C2F1930D00 49] Android_Adreno6xx, [000001C2F09DD200][000001C2F1934E80 49] Android_Adreno6xx_Vulkan, [000001C2F093F800][000001C2F1939000 49] Android_Mali_T6xx, [000001C2F09DE200][000001C2F193D180 49] Android_Mali_T7xx, [000001C2F093E300][000001C2F1941300 49] Android_Mali_T8xx, [000001C2F093A900][000001C2F1945480 49] Android_Mali_G71, [000001C2F098C600][000001C2F1949600 49] Android_Mali_G72, [000001C2F0939B00][000001C2F194D780 49] Android_Mali_G72_Vulkan, [000001C2F098D900][000001C2F190D8C0 49] Android_Mali_G76, [000001C2F0938800][000001C2F1951A00 49] Android_Mali_G76_Vulkan, [000001C2F098E500][000001C2F1955B40 49] Android_Mali_G77, [000001C2F0938300][000001C2F1959C80 49] Android_Mali_G77_Vulkan, [000001C2F098C800][000001C2F1960140 49] Android_Vulkan_SM5, [000001C2F0939D00][000001C2F19642C0 49] Android_PowerVR_G6xxx, [000001C2F098FE00][000001C2F1968440 49] Android_PowerVR_GT7xxx, [000001C2F093B900][000001C2F196C5C0 49] Android_PowerVR_GE8xxx, [000001C2F098F600][000001C2F1970740 49] Android_PowerVR_GM9xxx, [000001C2F0938A00][000001C2F19748C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001C2F098FC00][000001C2F1978A40 49] Android_TegraK1, [000001C2F0939F00][000001C2F197CBC0 49] Android_Unknown_Vulkan, [000001C2F098D800][000001C2F1980D40 49] Lumin, [000001C2F093AD00][000001C2F1984EC0 49] Lumin_Desktop, [000001C2F098E100][000001C2F1989040 49] HoloLens, 
+[2022.05.08-19.45.13:342][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.08-19.45.13:342][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.08-19.45.13:342][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.08-19.45.13:342][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.08-19.45.13:342][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.08-19.45.13:398][  0]LogNetVersion: The_Sight 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3288160014)
+[2022.05.08-19.45.13:662][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.05.08-19.45.13:684][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.021627 seconds
+[2022.05.08-19.45.13:687][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.05.08-19.45.13:688][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.05.08-19.45.13:688][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.08-19.45.13:937][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.08-19.45.13:941][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.08-19.45.14:027][  0]SourceControl: Source control is disabled
+[2022.05.08-19.45.14:027][  0]SourceControl: Source control is disabled
+[2022.05.08-19.45.14:029][  0]SourceControl: Source control is disabled
+[2022.05.08-19.45.14:031][  0]SourceControl: Source control is disabled
+[2022.05.08-19.45.14:036][  0]SourceControl: Source control is disabled
+[2022.05.08-19.45.14:043][  0]LogUProjectInfo: Found projects:
+[2022.05.08-19.45.14:075][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.08-19.45.14:088][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.08-19.45.14:088][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.08-19.45.14:222][  0]LogCollectionManager: Loaded 0 collections in 0.001680 seconds
+[2022.05.08-19.45.14:238][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Collections/' took 0.00s
+[2022.05.08-19.45.14:238][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Content/Developers/Muyat/Collections/' took 0.00s
+[2022.05.08-19.45.14:238][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Content/Collections/' took 0.00s
+[2022.05.08-19.45.14:238][  0]LogOcInput: OculusInput pre-init called
+[2022.05.08-19.45.14:246][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.05.08-19.45.14:246][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.05.08-19.45.14:279][  0]LogEngine: Initializing Engine...
+[2022.05.08-19.45.14:280][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.08-19.45.14:280][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.05.08-19.45.14:281][  0]LogGameplayTags: NetworkGameplayTagNodeIndexHash is 0
+[2022.05.08-19.45.14:281][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.08-19.45.14:348][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.08-19.45.14:353][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.08-19.45.14:360][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.08-19.45.14:363][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.08-19.45.14:363][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.08-19.45.14:363][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.08-19.45.14:363][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.08-19.45.14:363][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.08-19.45.14:363][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.08-19.45.14:363][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.08-19.45.14:363][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.08-19.45.14:364][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.08-19.45.14:364][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.08-19.45.14:364][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.08-19.45.14:364][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.08-19.45.14:372][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.08-19.45.14:372][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.05.08-19.45.14:390][  0]LogAudioMixer: Display: Using Audio Device Hoparlör (USBZH3-ENC)
+[2022.05.08-19.45.14:393][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.08-19.45.14:394][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.08-19.45.14:394][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.08-19.45.14:394][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.08-19.45.14:394][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.08-19.45.14:394][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.08-19.45.14:395][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.08-19.45.14:395][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.08-19.45.14:395][  0]LogInit: FAudioDevice initialized.
+[2022.05.08-19.45.14:395][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.08-19.45.14:395][  0]LogNetVersion: Set ProjectVersion to 0.0.1. Version Checksum will be recalculated on next use.
+[2022.05.08-19.45.14:428][  0]LogDerivedDataCache: Saved boot cache 0.03s 77MB C:/Users/Muyat/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.05.08-19.45.14:431][  0]LogInit: Texture streaming: Enabled
+[2022.05.08-19.45.14:439][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.05.08-19.45.14:442][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.08-19.45.14:442][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.05.08-19.45.14:443][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.05.08-19.45.14:463][  0]LogInit: Transaction tracking system initialized
+[2022.05.08-19.45.14:477][  0]BlueprintLog: New page: Editor Load
+[2022.05.08-19.45.14:524][  0]LocalizationService: Localization service is disabled
+[2022.05.08-19.45.14:540][  0]TimingProfiler: Initialize
+[2022.05.08-19.45.14:540][  0]TimingProfiler: OnSessionChanged
+[2022.05.08-19.45.14:540][  0]LoadingProfiler: Initialize
+[2022.05.08-19.45.14:540][  0]LoadingProfiler: OnSessionChanged
+[2022.05.08-19.45.14:540][  0]NetworkingProfiler: Initialize
+[2022.05.08-19.45.14:540][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.08-19.45.14:540][  0]MemoryProfiler: Initialize
+[2022.05.08-19.45.14:540][  0]MemoryProfiler: OnSessionChanged
+[2022.05.08-19.45.14:628][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.05.08-19.45.14:628][  0]LogCook: Display: Mobile HDR setting 1
+[2022.05.08-19.45.14:628][  0]LogGameplayTags: NetworkGameplayTagNodeIndexHash is 0
+[2022.05.08-19.45.14:728][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Muyat/Documents/Unreal Projects/The_Sight/Content/' took 0.00s
+[2022.05.08-19.45.14:832][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.08-19.45.14:834][  0]SourceControl: Source control is disabled
+[2022.05.08-19.45.14:834][  0]LogUnrealEdMisc: Loading editor; pre map load, took 3.846
+[2022.05.08-19.45.14:834][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/TestMaps/BaseTesetMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.08-19.45.14:834][  0]LightingResults: New page: Lighting Build
+[2022.05.08-19.45.14:835][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-19.45.14:835][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-19.45.14:835][  0]MapCheck: New page: Map Check
+[2022.05.08-19.45.14:835][  0]LightingResults: New page: Lighting Build
+[2022.05.08-19.45.14:839][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.05.08-19.45.14:877][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'BaseTesetMap'.
+[2022.05.08-19.45.14:878][  0]LogAIModule: Creating AISystem for world BaseTesetMap
+[2022.05.08-19.45.14:880][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.08-19.45.14:888][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.08-19.45.14:888][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.08-19.45.14:888][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,12ms to complete.
+[2022.05.08-19.45.14:888][  0]LogFileHelpers: Loading map 'BaseTesetMap' took 0.055
+[2022.05.08-19.45.14:890][  0]LogUnrealEdMisc: Total Editor Startup Time, took 3.901
+[2022.05.08-19.45.15:211][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.05.08-19.45.15:250][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.08-19.45.15:254][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.08-19.45.15:257][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.08-19.45.15:261][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.08-19.45.15:270][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0068 seconds. Added 3601 classes and 859 folders.
+[2022.05.08-19.45.15:272][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.05.08-19.45.15:273][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.08-19.45.15:273][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:273][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.08-19.45.15:273][  0]LogPakFile: OnPakFileMounted2Time == 0.000005
+[2022.05.08-19.45.15:273][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.05.08-19.45.15:273][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:273][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.05.08-19.45.15:274][  0]LogPakFile: OnPakFileMounted2Time == 0.000005
+[2022.05.08-19.45.15:274][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.05.08-19.45.15:274][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:274][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.05.08-19.45.15:274][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2022.05.08-19.45.15:274][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.08-19.45.15:274][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:274][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.08-19.45.15:274][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2022.05.08-19.45.15:275][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.05.08-19.45.15:275][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:275][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.05.08-19.45.15:275][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2022.05.08-19.45.15:275][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.05.08-19.45.15:275][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:275][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.05.08-19.45.15:275][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2022.05.08-19.45.15:275][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.05.08-19.45.15:275][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:275][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.05.08-19.45.15:275][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2022.05.08-19.45.15:276][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.05.08-19.45.15:276][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:276][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.05.08-19.45.15:276][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.05.08-19.45.15:276][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.08-19.45.15:276][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:276][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.08-19.45.15:276][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.05.08-19.45.15:276][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.05.08-19.45.15:276][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:276][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.05.08-19.45.15:276][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.05.08-19.45.15:277][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.05.08-19.45.15:277][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:277][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.05.08-19.45.15:277][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.05.08-19.45.15:277][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.08-19.45.15:277][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:277][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.08-19.45.15:277][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.05.08-19.45.15:277][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.08-19.45.15:277][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:277][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.08-19.45.15:277][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.05.08-19.45.15:278][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.08-19.45.15:278][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:278][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.08-19.45.15:278][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2022.05.08-19.45.15:278][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.05.08-19.45.15:278][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:278][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.05.08-19.45.15:278][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2022.05.08-19.45.15:278][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.08-19.45.15:278][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:278][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.08-19.45.15:278][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.05.08-19.45.15:279][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.05.08-19.45.15:279][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:279][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.05.08-19.45.15:279][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.05.08-19.45.15:279][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.08-19.45.15:279][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:279][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.08-19.45.15:279][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.05.08-19.45.15:279][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.08-19.45.15:279][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:279][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.08-19.45.15:280][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.05.08-19.45.15:280][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.08-19.45.15:280][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:280][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.08-19.45.15:280][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.05.08-19.45.15:280][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.08-19.45.15:280][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:280][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.08-19.45.15:280][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.05.08-19.45.15:281][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.08-19.45.15:281][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:281][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.08-19.45.15:281][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.05.08-19.45.15:281][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.05.08-19.45.15:281][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:281][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.05.08-19.45.15:281][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.05.08-19.45.15:281][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.08-19.45.15:281][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:281][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.08-19.45.15:281][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.05.08-19.45.15:282][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.08-19.45.15:282][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:282][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.08-19.45.15:282][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.05.08-19.45.15:282][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.05.08-19.45.15:282][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.08-19.45.15:282][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.05.08-19.45.15:282][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.05.08-19.45.15:309][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.05.08-19.45.15:310][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.05.08-19.45.15:316][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2022.05.08-19.45.15:378][  0]LogSlate: Took 0.000093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.08-19.45.15:380][  0]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.08-19.45.15:382][  0]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.08-19.45.15:438][  0]LogRenderer: Reallocating scene render targets to support 1244x400 Format 10 NumSamples 1 (Frame:1).
+[2022.05.08-19.45.15:502][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.05.08-19.45.15:502][  0]LogInput: Warning: Action Jump Key uses invalid key OculusGo_Left_Trigger_Click.
+[2022.05.08-19.45.15:502][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.05.08-19.45.15:502][  0]LogLoad: (Engine Initialization) Total time: 4.51 seconds
+[2022.05.08-19.45.15:502][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.08-19.45.15:502][  0]LogInit: First time updating LLM stats...
+[2022.05.08-19.45.15:533][  0]LogAssetRegistry: Asset discovery search completed in 2.3756 seconds
+[2022.05.08-19.45.15:534][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.05.08-19.45.15:550][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.08-19.45.15:578][  1]LogRenderer: Reallocating scene render targets to support 1244x408 Format 10 NumSamples 1 (Frame:3).
+[2022.05.08-19.45.15:620][  5]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.08-19.45.16:512][106]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.08-19.45.17:598][187]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/BaseCharacter/CustomFunction/WeaponRefEnum.WeaponRefEnum
+[2022.05.08-19.45.19:301][367]LogSlate: Window 'WeaponRefEnum' being destroyed
+[2022.05.08-19.45.21:998][687]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/BaseCharacter/CustomFunction/WeaponRef.WeaponRef
+[2022.05.08-19.45.22:873][787]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.05.08-19.46.15:234][442]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/WeaponRef0DF15FA043FB4A59BC61F6914346C56D.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/CustomFunction/WeaponRef.uasset'
+[2022.05.08-19.46.15:244][442]AssetCheck: New page: Asset Save: WeaponRef
+[2022.05.08-19.46.15:244][442]LogContentValidation: Display: Validating UserDefinedStruct /Game/BaseCharacter/CustomFunction/WeaponRef.WeaponRef
+[2022.05.08-19.46.43:343][400]LogLinker: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: Failed to load '/Game/BaseCharacter/CurrentWeapon': Can't find file.
+[2022.05.08-19.46.43:343][400]LogLinker: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: Failed to load '/Game/BaseCharacter/CurrentWeapon': Can't find file.
+[2022.05.08-19.46.43:343][400]LogLinker: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: Failed to load '/Game/BaseCharacter/CurrentWeapon': Can't find file.
+[2022.05.08-19.46.43:343][400]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/BaseCharacter/BaseCharacterAnimation/BaseAnimationBP.BaseAnimationBP_C:CurrentGun'. Unknown structure.
+[2022.05.08-19.46.43:344][400]LogLinker: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: Failed to load '/Game/BaseCharacter/CurrentWeapon': Can't find file.
+[2022.05.08-19.46.43:344][400]LogLinker: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: Failed to load '/Game/BaseCharacter/CurrentWeapon': Can't find file.
+[2022.05.08-19.46.43:344][400]LogClass: Warning: Property CurrentGun of CurrentGun has a struct type mismatch (tag STRUCT_REINST_CurrentWeapon_2 != prop FallbackStruct) in package:  ../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/BaseCharacterAnimation/BaseAnimationBP.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.05.08-19.46.43:344][400]LogLinker: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: Failed to load '/Game/BaseCharacter/CurrentWeapon': Can't find file.
+[2022.05.08-19.46.43:345][400]LoadErrors: Failed to load /Game/BaseCharacter/CurrentWeapon.CurrentWeapon Referenced by BaseAnimationBP
+[2022.05.08-19.46.43:345][400]LogLinker: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: Failed to load '/Game/BaseCharacter/CurrentWeapon': Can't find file.
+[2022.05.08-19.46.43:345][400]LoadErrors: Failed to load /Game/BaseCharacter/CurrentWeapon.CurrentWeapon Referenced by K2Node_VariableSet_2
+[2022.05.08-19.46.43:345][400]LogLinker: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: Failed to load '/Game/BaseCharacter/CurrentWeapon': Can't find file.
+[2022.05.08-19.46.43:348][400]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] The variable CurrentGun declared in  BaseAnimationBP  has an invalid type Structure
+[2022.05.08-19.46.43:349][400]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] The variable CurrentGun declared in  BaseAnimationBP  has an invalid type Structure
+[2022.05.08-19.46.43:351][400]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] Could not find a variable named "CurrentGun" in 'BaseAnimationBP_C'.
+Make sure 'BaseAnimationBP_C' has been compiled for  Set CurrentGun
+[2022.05.08-19.46.43:352][400]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] Pistol | idle2walk2run to Rifle | idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.46.43:352][400]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] Rifle | idle2walk2run to Shotgun | idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.46.43:352][400]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] Shotgun | idle2walk2run to Rifle | idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.46.43:352][400]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] Shotgun | idle2walk2run to Pistol | idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.46.43:353][400]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] Pistol | idle2walk2run to Shotgun | idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.46.43:353][400]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] Rifle | idle2walk2run to Pistol | idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.46.43:353][400]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] Pistol | idle2walk2run to idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.46.43:353][400]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] idle2walk2run to Pistol | idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.46.43:375][400]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] The type of  A  is undetermined.  Connect something to  Equal (Enum)  to imply a specific type.
+[2022.05.08-19.46.43:375][400]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] The type of  B  is undetermined.  Connect something to  Equal (Enum)  to imply a specific type.
+[2022.05.08-19.46.43:376][400]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] The current value (NewEnumerator0) of the ' Weapon ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.08-19.46.43:376][400]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] The current value (NewEnumerator1) of the ' Weapon ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.08-19.46.43:376][400]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] The current value (NewEnumerator2) of the ' Weapon ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.08-19.46.43:376][400]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] The current value of the ' A ' pin is invalid: Unsupported type Wildcard on pin A
+[2022.05.08-19.46.43:376][400]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] The current value of the ' B ' pin is invalid: Unsupported type Wildcard on pin B
+[2022.05.08-19.46.44:322][400]LogSlate: Window 'Message' being destroyed
+[2022.05.08-19.46.44:325][400]Message dialog closed, result: Ok, title: Message, text: The following member variables in blueprint 'AnimBlueprint /Game/BaseCharacter/BaseCharacterAnimation/BaseAnimationBP.BaseAnimationBP' have invalid type. Would you like to remove them? 
+
+Current Gun
+
+[2022.05.08-19.46.44:361][400]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BaseCharacter/BaseCharacter.BaseCharacter
+[2022.05.08-19.46.44:466][400]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.05.08-19.46.45:064][400]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.08-19.46.45:084][400]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.08-19.46.45:097][401]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.08-19.47.00:204][977]BlueprintLog: New page: Compile BaseCharacter
+[2022.05.08-19.47.00:209][977]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] The current value (NewEnumerator0) of the ' Weapon ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.08-19.47.00:209][977]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] The current value (NewEnumerator1) of the ' Weapon ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.08-19.47.00:209][977]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] The current value (NewEnumerator2) of the ' Weapon ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.08-19.47.00:235][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.05.08-19.47.17:441][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.05.08-19.47.18:067][857]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.08-19.47.18:099][857]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/BaseCharacter/CustomFunction/WeaponRefEnum.WeaponRefEnum
+[2022.05.08-19.47.18:451][857]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2022.05.08-19.47.18:525][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.05.08-19.47.18:539][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.05.08-19.47.18:549][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.05.08-19.47.19:303][938]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/BaseCharacter/CustomFunction/WeaponRef.WeaponRef
+[2022.05.08-19.47.19:307][938]LogLinker: Warning: Failed to load '/Game/BaseCharacter/CustomFunction/WeaponRefEnum': Can't find file.
+[2022.05.08-19.47.19:308][938]LogLinker: Warning: Failed to load '/Game/BaseCharacter/CustomFunction/WeaponRefEnum': Can't find file.
+[2022.05.08-19.47.19:308][938]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/BaseCharacter/CustomFunction/WeaponRefEnum.WeaponRefEnum'
+[2022.05.08-19.47.22:746][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.05.08-19.47.23:790][301]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.08-19.47.24:172][301]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/BaseCharacter/CustomFunction/WeaponRef.WeaponRef
+[2022.05.08-19.47.24:550][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.05.08-19.47.24:562][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.05.08-19.47.24:572][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.05.08-19.47.33:369][298]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2022.05.08-19.47.33:377][298]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2022.05.08-19.47.37:105][737]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> WeaponActor
+[2022.05.08-19.47.37:111][737]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2022.05.08-19.47.38:395][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.05.08-19.47.38:403][888]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/BaseTesetMap56F5AE9B4F2C0184FCD9AC8E762D0CB2.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/TestMaps/BaseTesetMap.umap'
+[2022.05.08-19.47.38:408][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestMaps/BaseTesetMap_BuiltData" FILE="../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/TestMaps/BaseTesetMap_BuiltData.uasset" SILENT=true
+[2022.05.08-19.47.38:418][888]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/BaseTesetMap_BuiltData317163244C03008221993F8DB97FB298.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/TestMaps/BaseTesetMap_BuiltData.uasset'
+[2022.05.08-19.47.38:428][888]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.08-19.47.38:428][888]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TestMaps/BaseTesetMap_BuiltData.BaseTesetMap_BuiltData
+[2022.05.08-19.47.38:428][888]LogContentValidation: Display: Validating World /Game/TestMaps/BaseTesetMap.BaseTesetMap
+[2022.05.08-19.47.38:938][943]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/BaseCharacter/CustomFunction/WeaponActors.WeaponActors
+[2022.05.08-19.47.42:583][344]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/BaseCharacter/CustomFunction/WeaponActor.WeaponActor
+[2022.05.08-19.47.53:694][511]LogContentBrowser: Attempting asset rename: WeaponActors -> WeaponTypes
+[2022.05.08-19.47.53:735][511]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/WeaponTypes9B0AE48947D06BD80ACE9EBB7BBB2477.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/CustomFunction/WeaponTypes.uasset'
+[2022.05.08-19.47.53:852][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.05.08-19.47.53:869][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.05.08-19.47.53:879][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.05.08-19.47.53:897][511]AssetCheck: New page: Asset Save: WeaponTypes
+[2022.05.08-19.47.53:897][511]LogContentValidation: Display: Validating UserDefinedEnum /Game/BaseCharacter/CustomFunction/WeaponTypes.WeaponTypes
+[2022.05.08-19.47.55:078][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.05.08-19.47.55:934][640]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.08-19.47.56:192][640]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/BaseCharacter/CustomFunction/WeaponActor.WeaponActor
+[2022.05.08-19.47.56:560][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.05.08-19.48.00:399][ 78]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BaseCharacter/CustomFunction/AnimationSide.AnimationSide
+[2022.05.08-19.48.06:934][799]BlueprintLog: New page: Compile AnimationSide
+[2022.05.08-19.48.06:949][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.05.08-19.48.08:889][974]BlueprintLog: New page: Compile BaseCharacter
+[2022.05.08-19.48.08:892][974]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Convert Byte to WeaponTypes Enum' at  Set Current Weapon Types
+[2022.05.08-19.48.08:892][974]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Convert Byte to WeaponTypes Enum' at  Set Current Weapon Types
+[2022.05.08-19.48.08:892][974]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Convert Byte to WeaponTypes Enum' at  Set Current Weapon Types
+[2022.05.08-19.48.08:894][974]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] The current value (NewEnumerator0) of the ' Weapon ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.08-19.48.08:895][974]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] The current value (NewEnumerator1) of the ' Weapon ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.08-19.48.08:895][974]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] The current value (NewEnumerator2) of the ' Weapon ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.08-19.48.08:918][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.05.08-19.48.25:262][741]BlueprintLog: New page: Compile BaseCharacter
+[2022.05.08-19.48.25:266][741]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] Input pin  Weapon  specifying non-default value no longer exists on node  Current Weapon . Please refresh node or reset pin to default value to remove pin.
+[2022.05.08-19.48.25:266][741]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] Input pin  Weapon  specifying non-default value no longer exists on node  Current Weapon . Please refresh node or reset pin to default value to remove pin.
+[2022.05.08-19.48.25:293][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.05.08-19.48.33:200][582]BlueprintLog: New page: Compile BaseCharacter
+[2022.05.08-19.48.33:203][582]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] Input pin  Weapon  specifying non-default value no longer exists on node  Current Weapon . Please refresh node or reset pin to default value to remove pin.
+[2022.05.08-19.48.33:203][582]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] Input pin  Weapon  specifying non-default value no longer exists on node  Current Weapon . Please refresh node or reset pin to default value to remove pin.
+[2022.05.08-19.48.33:229][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.05.08-19.48.40:237][221]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.05.08-19.48.41:167][318]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.05.08-19.48.41:168][318]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.05.08-19.48.43:624][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseCharacter/BaseCharacter" FILE="../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/BaseCharacter.uasset" SILENT=true
+[2022.05.08-19.48.43:657][555]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/BaseCharacter7B09A2A0452F8B92582014972DDE3ABE.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/BaseCharacter.uasset'
+[2022.05.08-19.48.43:665][555]AssetCheck: New page: Asset Save: BaseCharacter
+[2022.05.08-19.48.43:665][555]LogContentValidation: Display: Validating Blueprint /Game/BaseCharacter/BaseCharacter.BaseCharacter
+[2022.05.08-19.49.04:196][699]BlueprintLog: New page: Compile BaseCharacter
+[2022.05.08-19.49.04:200][699]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] In use pin  Current Weapon  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.05.08-19.49.04:200][699]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] In use pin  Current Weapon  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.05.08-19.49.04:200][699]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] In use pin  Current Weapon  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.05.08-19.49.04:200][699]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] Input pin  Weapon  specifying non-default value no longer exists on node  Current Weapon . Please refresh node or reset pin to default value to remove pin.
+[2022.05.08-19.49.04:200][699]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] Input pin  Weapon  specifying non-default value no longer exists on node  Current Weapon . Please refresh node or reset pin to default value to remove pin.
+[2022.05.08-19.49.04:227][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.05.08-19.49.14:810][945]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2022.05.08-19.49.14:816][945]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2022.05.08-19.49.16:969][193]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> Weaponİno
+[2022.05.08-19.49.16:970][193]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2022.05.08-19.49.17:164][215]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/BaseCharacter/CustomFunction/Weaponİno.Weaponİno
+[2022.05.08-19.49.40:506][792]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/WeaponİnoA288D2BD465B0DA4DD4E5498EF0D1AAD.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/CustomFunction/Weaponİno.uasset'
+[2022.05.08-19.49.40:520][792]AssetCheck: New page: Asset Save: Weaponİno
+[2022.05.08-19.49.40:520][792]LogContentValidation: Display: Validating UserDefinedEnum /Game/BaseCharacter/CustomFunction/Weaponİno.Weaponİno
+[2022.05.08-19.49.43:935][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseCharacter/BaseCharacter" FILE="../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/BaseCharacter.uasset" SILENT=true
+[2022.05.08-19.49.43:959][140]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/BaseCharacter865CB1D74F199F886B539595CA6104AA.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/BaseCharacter.uasset'
+[2022.05.08-19.49.43:966][140]AssetCheck: New page: Asset Save: BaseCharacter
+[2022.05.08-19.49.43:966][140]LogContentValidation: Display: Validating Blueprint /Game/BaseCharacter/BaseCharacter.BaseCharacter
+[2022.05.08-19.50.01:978][169]LogContentBrowser: Attempting asset rename: Weaponİno -> Weapon_info
+[2022.05.08-19.50.01:993][169]LogMetaData: Removing '/Game/BaseCharacter/CustomFunction/Weapon_info.Weapon_info' ref from Metadata '/Game/BaseCharacter/CustomFunction/Weaponİno.PackageMetaData'
+[2022.05.08-19.50.02:021][169]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Weapon_info1E7A21F6435D0F886ABA26A2904A7F31.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/CustomFunction/Weapon_info.uasset'
+[2022.05.08-19.50.02:194][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.05.08-19.50.02:211][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.05.08-19.50.02:221][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.05.08-19.50.02:237][169]AssetCheck: New page: Asset Save: Weapon_info
+[2022.05.08-19.50.02:237][169]LogContentValidation: Display: Validating UserDefinedEnum /Game/BaseCharacter/CustomFunction/Weapon_info.Weapon_info
+[2022.05.08-19.50.06:347][636]LogContentBrowser: Attempting asset rename: WeaponTypes -> Weapon_Types
+[2022.05.08-19.50.06:395][636]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Weapon_TypesC826A16547DA2A25EF78DB8A1B5B7970.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/CustomFunction/Weapon_Types.uasset'
+[2022.05.08-19.50.06:501][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.05.08-19.50.06:516][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.05.08-19.50.06:527][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.05.08-19.50.06:556][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseCharacter/BaseCharacter" FILE="../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/BaseCharacter.uasset" SILENT=true
+[2022.05.08-19.50.06:579][636]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/BaseCharacter847B7C064E772EF0F67F068712D2664A.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/BaseCharacter.uasset'
+[2022.05.08-19.50.06:600][636]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.08-19.50.06:600][636]LogContentValidation: Display: Validating Blueprint /Game/BaseCharacter/BaseCharacter.BaseCharacter
+[2022.05.08-19.50.06:600][636]LogContentValidation: Display: Validating UserDefinedEnum /Game/BaseCharacter/CustomFunction/Weapon_Types.Weapon_Types
+[2022.05.08-19.50.07:262][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.05.08-19.50.07:268][712]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/BaseTesetMapEF0C606D4637F39D081A42A42CE16440.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/TestMaps/BaseTesetMap.umap'
+[2022.05.08-19.50.07:274][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestMaps/BaseTesetMap_BuiltData" FILE="../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/TestMaps/BaseTesetMap_BuiltData.uasset" SILENT=true
+[2022.05.08-19.50.07:283][712]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/BaseTesetMap_BuiltDataE9F32BBD4646DB7AFA5533B376A7567D.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/TestMaps/BaseTesetMap_BuiltData.uasset'
+[2022.05.08-19.50.07:290][712]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.08-19.50.07:290][712]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TestMaps/BaseTesetMap_BuiltData.BaseTesetMap_BuiltData
+[2022.05.08-19.50.07:290][712]LogContentValidation: Display: Validating World /Game/TestMaps/BaseTesetMap.BaseTesetMap
+[2022.05.08-19.50.13:919][478]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2022.05.08-19.50.13:925][478]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2022.05.08-19.50.24:209][693]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> Structer_Weapon_info
+[2022.05.08-19.50.24:215][693]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2022.05.08-19.50.24:990][784]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Structer_Weapon_info49FFFEAD458099E4CEDDC385BC8CDF1A.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/CustomFunction/Structer_Weapon_info.uasset'
+[2022.05.08-19.50.25:003][784]AssetCheck: New page: Asset Save: Structer_Weapon_info
+[2022.05.08-19.50.25:003][784]LogContentValidation: Display: Validating UserDefinedStruct /Game/BaseCharacter/CustomFunction/Structer_Weapon_info.Structer_Weapon_info
+[2022.05.08-19.50.26:257][927]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/BaseCharacter/CustomFunction/Structer_Weapon_info.Structer_Weapon_info
+[2022.05.08-19.50.31:885][567]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Structer_Weapon_info8427BD6D456A24915F564C89E7B4C8A1.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/CustomFunction/Structer_Weapon_info.uasset'
+[2022.05.08-19.50.31:898][567]AssetCheck: New page: Asset Save: Structer_Weapon_info
+[2022.05.08-19.50.31:898][567]LogContentValidation: Display: Validating UserDefinedStruct /Game/BaseCharacter/CustomFunction/Structer_Weapon_info.Structer_Weapon_info
+[2022.05.08-19.52.36:370][924]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Structer_Weapon_infoF99145974BD2C01C87AC94A843EA1A0D.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/CustomFunction/Structer_Weapon_info.uasset'
+[2022.05.08-19.52.36:453][924]AssetCheck: New page: Asset Save: Structer_Weapon_info
+[2022.05.08-19.52.36:453][924]LogContentValidation: Display: Validating UserDefinedStruct /Game/BaseCharacter/CustomFunction/Structer_Weapon_info.Structer_Weapon_info
+[2022.05.08-19.52.39:662][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.05.08-19.52.40:511][255]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.08-19.52.40:763][255]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/BaseCharacter/CustomFunction/Weapon_info.Weapon_info
+[2022.05.08-19.52.41:000][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.05.08-19.52.41:011][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.05.08-19.52.41:020][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.05.08-19.52.47:235][971]LogContentBrowser: Attempting asset rename: Structer_Weapon_info -> Weapon_info
+[2022.05.08-19.52.47:254][971]LogMetaData: Removing '/Game/BaseCharacter/CustomFunction/Weapon_info.Weapon_info' ref from Metadata '/Game/BaseCharacter/CustomFunction/Structer_Weapon_info.PackageMetaData'
+[2022.05.08-19.52.47:282][971]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/Weapon_infoB5D1789C4B5C201A6A9B1FAE163C9227.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/CustomFunction/Weapon_info.uasset'
+[2022.05.08-19.52.47:438][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.05.08-19.52.47:454][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.05.08-19.52.47:463][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.05.08-19.52.47:478][971]AssetCheck: New page: Asset Save: Weapon_info
+[2022.05.08-19.52.47:479][971]LogContentValidation: Display: Validating UserDefinedStruct /Game/BaseCharacter/CustomFunction/Weapon_info.Weapon_info
+[2022.05.08-19.52.48:227][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.05.08-19.52.48:233][ 58]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/BaseTesetMap179D94944C14A63FA669099A270B44F2.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/TestMaps/BaseTesetMap.umap'
+[2022.05.08-19.52.48:239][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestMaps/BaseTesetMap_BuiltData" FILE="../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/TestMaps/BaseTesetMap_BuiltData.uasset" SILENT=true
+[2022.05.08-19.52.48:249][ 58]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/BaseTesetMap_BuiltData7BA87EB24321CD78022686A189DCFFA2.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/TestMaps/BaseTesetMap_BuiltData.uasset'
+[2022.05.08-19.52.48:256][ 58]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.08-19.52.48:256][ 58]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TestMaps/BaseTesetMap_BuiltData.BaseTesetMap_BuiltData
+[2022.05.08-19.52.48:256][ 58]LogContentValidation: Display: Validating World /Game/TestMaps/BaseTesetMap.BaseTesetMap
+[2022.05.08-19.53.05:199][ 18]BlueprintLog: New page: Compile BaseCharacter
+[2022.05.08-19.53.05:202][ 18]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] In use pin  Current Weapon  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.05.08-19.53.05:202][ 18]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] In use pin  Current Weapon  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.05.08-19.53.05:203][ 18]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] In use pin  Current Weapon  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.05.08-19.53.05:203][ 18]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] Input pin  Weapon  specifying non-default value no longer exists on node  Current Weapon . Please refresh node or reset pin to default value to remove pin.
+[2022.05.08-19.53.05:203][ 18]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] Input pin  Weapon  specifying non-default value no longer exists on node  Current Weapon . Please refresh node or reset pin to default value to remove pin.
+[2022.05.08-19.53.05:229][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.05.08-19.53.08:892][412]BlueprintLog: New page: Compile BaseCharacter
+[2022.05.08-19.53.08:896][412]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] In use pin  Current Weapon  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.05.08-19.53.08:896][412]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] In use pin  Current Weapon  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.05.08-19.53.08:896][412]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] In use pin  Current Weapon  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.05.08-19.53.08:896][412]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] Input pin  Weapon  specifying non-default value no longer exists on node  Current Weapon . Please refresh node or reset pin to default value to remove pin.
+[2022.05.08-19.53.08:896][412]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] Input pin  Weapon  specifying non-default value no longer exists on node  Current Weapon . Please refresh node or reset pin to default value to remove pin.
+[2022.05.08-19.53.08:899][412]LogClass: Warning: Type mismatch in Weaponİnfo of BaseCharacter_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2022.05.08-19.53.08:922][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.05.08-19.53.22:716][ 36]BlueprintLog: New page: Compile BaseCharacter
+[2022.05.08-19.53.22:720][ 36]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] In use pin  Current Weapon  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.05.08-19.53.22:720][ 36]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] In use pin  Current Weapon  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.05.08-19.53.22:720][ 36]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] In use pin  Current Weapon  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.05.08-19.53.22:720][ 36]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] Input pin  Weapon  specifying non-default value no longer exists on node  Current Weapon . Please refresh node or reset pin to default value to remove pin.
+[2022.05.08-19.53.22:720][ 36]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] Input pin  Weapon  specifying non-default value no longer exists on node  Current Weapon . Please refresh node or reset pin to default value to remove pin.
+[2022.05.08-19.53.22:747][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.05.08-19.53.44:546][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseCharacter/BaseCharacter" FILE="../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/BaseCharacter.uasset" SILENT=true
+[2022.05.08-19.53.44:570][238]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/BaseCharacter9AAE27CD4FC2257BAFF14D8AF8D750DB.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/BaseCharacter.uasset'
+[2022.05.08-19.53.44:577][238]AssetCheck: New page: Asset Save: BaseCharacter
+[2022.05.08-19.53.44:577][238]LogContentValidation: Display: Validating Blueprint /Game/BaseCharacter/BaseCharacter.BaseCharacter
+[2022.05.08-19.54.16:500][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseCharacter/BaseCharacter" FILE="../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/BaseCharacter.uasset" SILENT=true
+[2022.05.08-19.54.16:524][537]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/BaseCharacter42FCF1D4470E1037EAEB4DB5829A64B0.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/BaseCharacter.uasset'
+[2022.05.08-19.54.16:531][537]AssetCheck: New page: Asset Save: BaseCharacter
+[2022.05.08-19.54.16:531][537]LogContentValidation: Display: Validating Blueprint /Game/BaseCharacter/BaseCharacter.BaseCharacter
+[2022.05.08-19.54.23:410][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseCharacter/BaseCharacter" FILE="../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/BaseCharacter.uasset" SILENT=true
+[2022.05.08-19.54.23:434][229]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/BaseCharacter900D7EDD4F1A757ECEC46DA29751A543.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/BaseCharacter.uasset'
+[2022.05.08-19.54.23:441][229]AssetCheck: New page: Asset Save: BaseCharacter
+[2022.05.08-19.54.23:441][229]LogContentValidation: Display: Validating Blueprint /Game/BaseCharacter/BaseCharacter.BaseCharacter
+[2022.05.08-19.54.26:676][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseCharacter/BaseCharacter" FILE="../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/BaseCharacter.uasset" SILENT=true
+[2022.05.08-19.54.26:698][512]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/BaseCharacter98101C06490A50D13146B9A02858B571.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/BaseCharacter.uasset'
+[2022.05.08-19.54.26:706][512]AssetCheck: New page: Asset Save: BaseCharacter
+[2022.05.08-19.54.26:706][512]LogContentValidation: Display: Validating Blueprint /Game/BaseCharacter/BaseCharacter.BaseCharacter
+[2022.05.08-19.54.42:310][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseCharacter/BaseCharacter" FILE="../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/BaseCharacter.uasset" SILENT=true
+[2022.05.08-19.54.42:335][ 94]LogSavePackage: Moving '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Saved/BaseCharacterB15BE651488C27104A502CAA89DD641F.tmp' to '../../../../../../Users/Muyat/Documents/Unreal Projects/The_Sight/Content/BaseCharacter/BaseCharacter.uasset'
+[2022.05.08-19.54.42:342][ 94]AssetCheck: New page: Asset Save: BaseCharacter
+[2022.05.08-19.54.42:342][ 94]LogContentValidation: Display: Validating Blueprint /Game/BaseCharacter/BaseCharacter.BaseCharacter
+[2022.05.08-19.54.46:725][557]BlueprintLog: New page: Compile BaseCharacter
+[2022.05.08-19.54.46:729][557]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] In use pin  Current Weapon  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.05.08-19.54.46:729][557]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] In use pin  Current Weapon  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.05.08-19.54.46:729][557]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] In use pin  Current Weapon  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.05.08-19.54.46:729][557]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] Input pin  Weapon  specifying non-default value no longer exists on node  Current Weapon . Please refresh node or reset pin to default value to remove pin.
+[2022.05.08-19.54.46:729][557]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] Input pin  Weapon  specifying non-default value no longer exists on node  Current Weapon . Please refresh node or reset pin to default value to remove pin.
+[2022.05.08-19.54.46:755][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.05.08-19.54.59:406][980]BlueprintLog: New page: Compile BaseCharacter
+[2022.05.08-19.54.59:409][980]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] In use pin  Current Weapon  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.05.08-19.54.59:409][980]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] In use pin  Current Weapon  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.05.08-19.54.59:410][980]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] In use pin  Current Weapon  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.05.08-19.54.59:410][980]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] Input pin  Weapon  specifying non-default value no longer exists on node  Current Weapon . Please refresh node or reset pin to default value to remove pin.
+[2022.05.08-19.54.59:410][980]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] Input pin  Weapon  specifying non-default value no longer exists on node  Current Weapon . Please refresh node or reset pin to default value to remove pin.
+[2022.05.08-19.54.59:436][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.05.08-19.55.04:727][536]BlueprintLog: New page: Compile BaseCharacter
+[2022.05.08-19.55.04:731][536]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] In use pin  Current Weapon  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.05.08-19.55.04:731][536]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] In use pin  Current Weapon  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.05.08-19.55.04:731][536]LogBlueprint: Error: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] In use pin  Current Weapon  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.05.08-19.55.04:731][536]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] Input pin  Weapon  specifying non-default value no longer exists on node  Current Weapon . Please refresh node or reset pin to default value to remove pin.
+[2022.05.08-19.55.04:731][536]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacter.uasset: [Compiler] Input pin  Weapon  specifying non-default value no longer exists on node  Current Weapon . Please refresh node or reset pin to default value to remove pin.
+[2022.05.08-19.55.04:757][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.05.08-19.55.34:334][453]BlueprintLog: New page: Compile BaseCharacter
+[2022.05.08-19.55.34:364][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.05.08-19.55.34:908][511]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.08-19.55.34:914][511]BlueprintLog: Warning: Blueprint failed to compile:  BaseAnimationBP
+[2022.05.08-19.55.34:914][511]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.05.08-19.55.34:920][511]LogPlayLevel: [PlayLevel] Compiling AnimationSide before play...
+[2022.05.08-19.55.34:930][511]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2022.05.08-19.55.34:945][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.05.08-19.55.34:946][511]LogPlayLevel: PlayLevel: Blueprint regeneration took 31 ms (2 blueprints)
+[2022.05.08-19.55.34:946][511]LogCustomDialog: Dialog displayed:
+[2022.05.08-19.55.35:950][511]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.05.08-19.55.36:677][589]BlueprintLog: New page: Compile BaseCharacter
+[2022.05.08-19.55.36:706][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.05.08-19.55.37:347][648]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.08-19.55.37:351][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.08-19.55.37:351][648]BlueprintLog: Warning: Blueprint failed to compile:  BaseAnimationBP
+[2022.05.08-19.55.37:351][648]LogCustomDialog: Dialog displayed:
+[2022.05.08-19.55.38:328][648]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/BaseCharacter/BaseCharacterAnimation/BaseAnimationBP.BaseAnimationBP
+[2022.05.08-19.55.38:341][648]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2022.05.08-19.55.38:460][648]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.05.08-19.55.38:467][648]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2022.05.08-19.55.39:491][648]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.05.08-19.55.41:145][797]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.05.08-19.55.43:834][101]BlueprintLog: New page: Compile BaseAnimationBP
+[2022.05.08-19.55.43:838][101]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] Pistol | idle2walk2run to Rifle | idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.55.43:838][101]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] Rifle | idle2walk2run to Shotgun | idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.55.43:838][101]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] Shotgun | idle2walk2run to Rifle | idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.55.43:838][101]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] Shotgun | idle2walk2run to Pistol | idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.55.43:838][101]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] Pistol | idle2walk2run to Shotgun | idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.55.43:838][101]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] Rifle | idle2walk2run to Pistol | idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.55.43:839][101]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] Pistol | idle2walk2run to idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.55.43:839][101]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] idle2walk2run to Pistol | idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.55.43:887][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.05.08-19.55.44:930][178]BlueprintLog: New page: Compile BaseAnimationBP
+[2022.05.08-19.55.44:933][178]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] Pistol | idle2walk2run to Rifle | idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.55.44:933][178]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] Rifle | idle2walk2run to Shotgun | idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.55.44:934][178]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] Shotgun | idle2walk2run to Rifle | idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.55.44:934][178]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] Shotgun | idle2walk2run to Pistol | idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.55.44:934][178]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] Pistol | idle2walk2run to Shotgun | idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.55.44:934][178]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] Rifle | idle2walk2run to Pistol | idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.55.44:934][178]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] Pistol | idle2walk2run to idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.55.44:934][178]LogBlueprint: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: [Compiler] idle2walk2run to Pistol | idle2walk2run  will never be taken, please connect something to  Can Enter Transition
+[2022.05.08-19.55.44:964][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.05.08-19.55.48:904][584]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.08-19.55.48:909][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.08-19.55.48:910][584]PIE: New page: PIE session: BaseTesetMap (9 May 2022 01:55:48)
+[2022.05.08-19.55.48:911][584]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.05.08-19.55.48:912][584]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.05.08-19.55.48:914][584]LogPlayLevel: Creating play world package: /Game/TestMaps/UEDPIE_0_BaseTesetMap
+[2022.05.08-19.55.48:916][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002520s)
+[2022.05.08-19.55.48:917][584]LogAIModule: Creating AISystem for world BaseTesetMap
+[2022.05.08-19.55.48:917][584]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2022.05.08-19.55.48:917][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMaps/BaseTesetMap.BaseTesetMap to /Game/TestMaps/UEDPIE_0_BaseTesetMap.BaseTesetMap (0.003662s)
+[2022.05.08-19.55.48:935][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.05.08-19.55.48:937][584]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.05.08-19.55.48:937][584]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.08-19.55.48:937][584]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.08-19.55.48:937][584]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.08-19.55.48:937][584]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.08-19.55.48:937][584]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.08-19.55.48:937][584]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.08-19.55.48:937][584]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.08-19.55.48:937][584]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.08-19.55.48:937][584]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.08-19.55.48:937][584]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.08-19.55.48:939][584]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.08-19.55.48:939][584]LogAudioMixer: Display: 1: FrontRight
+[2022.05.08-19.55.48:946][584]LogAudioMixer: Display: Using Audio Device Hoparlör (USBZH3-ENC)
+[2022.05.08-19.55.48:946][584]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.08-19.55.48:946][584]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.08-19.55.48:946][584]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.08-19.55.48:946][584]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.08-19.55.48:946][584]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.08-19.55.48:946][584]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.08-19.55.48:956][584]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.08-19.55.48:956][584]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.08-19.55.48:956][584]LogInit: FAudioDevice initialized.
+[2022.05.08-19.55.48:956][584]LogAudio: Display: Audio Device (ID: 2) registered with world 'BaseTesetMap'.
+[2022.05.08-19.55.49:000][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.08-19.55.49:007][584]LogLinker: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: Failed to load '/Game/BaseCharacter/CurrentWeapon': Can't find file.
+[2022.05.08-19.55.49:007][584]LogLinker: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: Failed to load '/Game/BaseCharacter/CurrentWeapon': Can't find file.
+[2022.05.08-19.55.49:007][584]LogLinker: Warning: [AssetLog] C:\Users\Muyat\Documents\Unreal Projects\The_Sight\Content\BaseCharacter\BaseCharacterAnimation\BaseAnimationBP.uasset: Failed to load '/Game/BaseCharacter/CurrentWeapon': Can't find file.
+[2022.05.08-19.55.49:015][584]LogLoad: Game class is 'BaseGameModeBase_C'
+[2022.05.08-19.55.49:015][584]LogWorld: Bringing World /Game/TestMaps/UEDPIE_0_BaseTesetMap.BaseTesetMap up for play (max tick rate 0) at 2022.05.08-22.55.49
+[2022.05.08-19.55.49:016][584]LogWorld: Bringing up level for play took: 0.000719
+[2022.05.08-19.55.49:017][584]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.05.08-19.55.49:028][584]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.05.08-19.55.49:034][584]PIE: Server logged in
+[2022.05.08-19.55.49:035][584]PIE: Play in editor total start time 0,126 seconds.
+[2022.05.08-19.55.49:078][585]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2022.05.08-19.55.50:280][698]LogBlueprintUserMessages: [BaseCharacter_C_0] current Weapon Name |  Pistol
+[2022.05.08-19.55.50:575][733]LogBlueprintUserMessages: [BaseCharacter_C_0] current Weapon Name |  Pistol
+[2022.05.08-19.55.51:516][846]LogBlueprintUserMessages: [BaseCharacter_C_0] current Weapon Name |  Pistol
+[2022.05.08-19.55.51:858][887]LogBlueprintUserMessages: [BaseCharacter_C_0] current Weapon Name |  Pistol
+[2022.05.08-19.55.52:734][992]LogBlueprintUserMessages: [BaseCharacter_C_0] current Weapon Name |  Pistol
+[2022.05.08-19.55.52:935][ 16]LogBlueprintUserMessages: [BaseCharacter_C_0] current Weapon Name |  Pistol
+[2022.05.08-19.55.53:218][ 50]LogBlueprintUserMessages: [BaseCharacter_C_0] current Weapon Name |  Pistol
+[2022.05.08-19.55.53:343][ 65]LogBlueprintUserMessages: [BaseCharacter_C_0] current Weapon Name |  Pistol
+[2022.05.08-19.55.53:535][ 88]LogBlueprintUserMessages: [BaseCharacter_C_0] current Weapon Name |  Pistol
+[2022.05.08-19.55.53:635][100]LogBlueprintUserMessages: [BaseCharacter_C_0] current Weapon Name |  Pistol
+[2022.05.08-19.55.53:883][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.08-19.55.53:883][126]LogWorld: BeginTearingDown for /Game/TestMaps/UEDPIE_0_BaseTesetMap
+[2022.05.08-19.55.53:884][126]LogSlate: Window 'The Sight Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.05.08-19.55.53:888][126]LogWorld: UWorld::CleanupWorld for BaseTesetMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.08-19.55.53:888][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-19.55.53:894][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.08-19.55.53:897][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.08-19.55.53:915][126]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.08-19.55.53:916][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.08-19.55.53:917][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.08-19.55.53:961][126]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.05.08-19.55.53:972][127]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.05.08-19.56.30:604][107]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.05.08-19.56.38:853][107]LogStats: FPlatformStackWalk::StackWalkAndDump -  8.250 s
+[2022.05.08-19.56.38:853][107]LogOutputDevice: Error: === Handled ensure: ===
+[2022.05.08-19.56.38:853][107]LogOutputDevice: Error: 
+[2022.05.08-19.56.38:853][107]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:/Build/++UE4/Sync/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp] [Line: 821]
+[2022.05.08-19.56.38:853][107]LogOutputDevice: Error: The Graph Pin Object has been invalidate. Someone is keeping a hard ref on the SGraphPin. See InvalidateGraphData for more info
+[2022.05.08-19.56.38:853][107]LogOutputDevice: Error: Stack: 
+[2022.05.08-19.56.38:853][107]LogOutputDevice: Error: [Callstack] 0x00007ffe9b15d149 UE4Editor-GraphEditor.dll!DispatchCheckVerify<bool,<lambda_ce374a83dad59d7c43158c240c424239> >() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Misc\AssertionMacros.h:164]
+[2022.05.08-19.56.38:853][107]LogOutputDevice: Error: [Callstack] 0x00007ffe9b002141 UE4Editor-GraphEditor.dll!SGraphNode::FindWidgetForPin() [D:\Build\++UE4\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphNode.cpp:1287]
+[2022.05.08-19.56.38:853][107]LogOutputDevice: Error: [Callstack] 0x00007ffe9b000db8 UE4Editor-GraphEditor.dll!FGraphPinHandle::FindInGraphPanel() [D:\Build\++UE4\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPin.cpp:59]
+[2022.05.08-19.56.38:853][107]LogOutputDevice: Error: [Callstack] 0x00007ffe9b00e88c UE4Editor-GraphEditor.dll!FGraphSplineOverlapResult::GetBestPinWidget() [D:\Build\++UE4\Sync\Engine\Source\Editor\GraphEditor\Public\GraphSplineOverlapResult.h:55]
+[2022.05.08-19.56.38:853][107]LogOutputDevice: Error: [Callstack] 0x00007ffe9b086b8c UE4Editor-GraphEditor.dll!SGraphPanel::OnSplineHoverStateChanged() [D:\Build\++UE4\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPanel.cpp:498]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffe9b084089 UE4Editor-GraphEditor.dll!SGraphPanel::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPanel.cpp:453]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac4a55 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:95]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac3dc2 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:35]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebb58fc19 UE4Editor-Slate.dll!SBox::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SBox.cpp:293]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac3dc2 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:35]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac3dc2 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:35]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebb58faa4 UE4Editor-Slate.dll!SBorder::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SBorder.cpp:120]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac4a55 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:95]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac7748 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac4beb UE4Editor-SlateCore.dll!SPanel::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac3dc2 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:35]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac7748 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebb591ec0 UE4Editor-Slate.dll!SSplitter::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SSplitter.cpp:167]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac3dc2 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:35]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac7748 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebb591ec0 UE4Editor-Slate.dll!SSplitter::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SSplitter.cpp:167]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac4a55 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:95]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac3dc2 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:35]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac7748 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac4beb UE4Editor-SlateCore.dll!SPanel::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac3dc2 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:35]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac3dc2 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:35]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebb58faa4 UE4Editor-Slate.dll!SBorder::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SBorder.cpp:120]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac4a55 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:95]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac7748 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac4beb UE4Editor-SlateCore.dll!SPanel::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac3dc2 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:35]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac7748 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebb591ec0 UE4Editor-Slate.dll!SSplitter::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SSplitter.cpp:167]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac4a55 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:95]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac3dc2 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:35]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac7748 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac4beb UE4Editor-SlateCore.dll!SPanel::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac7748 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac4beb UE4Editor-SlateCore.dll!SPanel::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac4a55 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:95]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac3dc2 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:35]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac6d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac7857 UE4Editor-SlateCore.dll!SWindow::PaintSlowPath() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWindow.cpp:2058]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffeba9f252a UE4Editor-SlateCore.dll!FSlateInvalidationRoot::PaintInvalidationRoot() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\FastUpdate\SlateInvalidationRoot.cpp:240]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebaac7aec UE4Editor-SlateCore.dll!SWindow::PaintWindow() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWindow.cpp:2090]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebb35977e UE4Editor-Slate.dll!FSlateApplication::DrawWindowAndChildren() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1056]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebb38b93e UE4Editor-Slate.dll!FSlateApplication::PrivateDrawWindows() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1279]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebb35a0d7 UE4Editor-Slate.dll!FSlateApplication::DrawWindows() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1017]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebb3b1e57 UE4Editor-Slate.dll!FSlateApplication::TickAndDrawWidgets() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1569]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffebb3b1659 UE4Editor-Slate.dll!FSlateApplication::Tick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1423]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ff75c02ae49 UE4Editor.exe!FEngineLoop::Tick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:4948]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ff75c04117c UE4Editor.exe!GuardedMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:169]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ff75c04125a UE4Editor.exe!GuardedMainWrapper() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:137]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ff75c0552bd UE4Editor.exe!WinMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:268]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ff75c057fea UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\5\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffefd507034 KERNEL32.DLL!UnknownFunction []
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: [Callstack] 0x00007ffefd642651 ntdll.dll!UnknownFunction []
+[2022.05.08-19.56.38:854][107]LogOutputDevice: Error: 
